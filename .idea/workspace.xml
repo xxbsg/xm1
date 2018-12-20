@@ -2,24 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b806c3a-42d1-4be1-9a50-500380f9a849" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/disanfang/captcha/fonts/Arial.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/disanfang/captcha/fonts/Georgia.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/disanfang/captcha/fonts/actionj.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/disanfang/captcha/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/disanfang/captcha/captcha.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/disanfang/yuntongxun/CCPRestSDK.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/disanfang/yuntongxun/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/disanfang/yuntongxun/sms.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/disanfang/yuntongxun/xmltojson.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/modules/zhuce/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/modules/zhuce/views.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csh/__init__.py" afterPath="$PROJECT_DIR$/csh/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csh/modules/index/views.py" afterPath="$PROJECT_DIR$/csh/modules/index/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csh/static/news/css/main.css" afterPath="$PROJECT_DIR$/csh/static/news/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csh/static/news/js/main.js" afterPath="$PROJECT_DIR$/csh/static/news/js/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csh/templates/news/index.html" afterPath="$PROJECT_DIR$/csh/templates/news/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kaishi.py" afterPath="$PROJECT_DIR$/kaishi.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csh/disanfang/yuntongxun/CCPRestSDK.py" afterPath="$PROJECT_DIR$/csh/disanfang/yuntongxun/CCPRestSDK.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csh/disanfang/yuntongxun/xmltojson.py" afterPath="$PROJECT_DIR$/csh/disanfang/yuntongxun/xmltojson.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -51,9 +36,11 @@
       <file leaf-file-name="__init__.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/csh/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="312">
+              <caret line="13" column="14" lean-forward="true" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#48#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -546,7 +533,14 @@
       <option name="project" value="LOCAL" />
       <updated>1545125174936</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="登陆 登出 点击排行">
+      <created>1545270255096</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1545270255096</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -563,7 +557,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.64828306" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39021853" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39021853" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -582,7 +576,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;初始版本&quot;" />
     <MESSAGE value="首页1.0 数据导入单数没有加载" />
-    <option name="LAST_COMMIT_MESSAGE" value="首页1.0 数据导入单数没有加载" />
+    <MESSAGE value="登陆 登出 点击排行" />
+    <option name="LAST_COMMIT_MESSAGE" value="登陆 登出 点击排行" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -984,9 +979,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/csh/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="312">
+          <caret line="13" column="14" lean-forward="true" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
