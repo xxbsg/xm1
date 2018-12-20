@@ -1,162 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b806c3a-42d1-4be1-9a50-500380f9a849" name="Default" comment="首页1.0 数据导入单数没有加载">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/images/cat.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/images/clock.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/images/collect_icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/images/comment_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/images/focus_icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/images/hit_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/images/news_pic.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/images/not_found.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/images/person.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/images/person01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/images/person02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/images/person03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/images/pic_code.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/images/reply_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/images/shutoff.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/images/tip_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/images/user_pic.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/images/worm.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/images/zan_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/emoticons/img/smiley-cool.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/emoticons/img/smiley-cry.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/emoticons/img/smiley-embarassed.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/emoticons/img/smiley-foot-in-mouth.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/emoticons/img/smiley-frown.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/emoticons/img/smiley-innocent.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/emoticons/img/smiley-kiss.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/emoticons/img/smiley-laughing.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/emoticons/img/smiley-money-mouth.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/emoticons/img/smiley-sealed.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/emoticons/img/smiley-smile.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/emoticons/img/smiley-surprised.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/emoticons/img/smiley-tongue-out.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/emoticons/img/smiley-undecided.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/emoticons/img/smiley-wink.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/emoticons/img/smiley-yell.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/help/img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/imageupload/img/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/skins/lightgray/fonts/tinymce-mobile.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/skins/lightgray/fonts/tinymce-small.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/skins/lightgray/fonts/tinymce-small.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/skins/lightgray/fonts/tinymce-small.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/skins/lightgray/fonts/tinymce.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/skins/lightgray/fonts/tinymce.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/skins/lightgray/fonts/tinymce.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/skins/lightgray/img/anchor.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/skins/lightgray/img/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/skins/lightgray/img/object.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/skins/lightgray/img/trans.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/constants.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/modules/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/modules/index/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/modules/index/views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/response_code.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/css/jquery.pagination.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/css/reset.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/html/404.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/html/detail.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/html/other.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/html/user.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/html/user_base_info.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/html/user_collection.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/html/user_follow.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/html/user_news_list.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/html/user_news_release.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/html/user_pass_info.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/html/user_pic_info.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/js/detail.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/js/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/js/jquery-1.12.4.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/js/jquery.form.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/js/jquery.pagination.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/js/other.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/js/tinymce_setup.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/js/user_base_info.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/js/user_follow.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/js/user_news_release.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/js/user_pass_info.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/js/user_pic_info.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/LICENSE.TXT" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/changelog.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/jquery.tinymce.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/langs/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/langs/zh_CN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/license.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/advlist/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/anchor/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/autolink/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/autoresize/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/autosave/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/bbcode/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/charmap/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/code/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/codesample/css/prism.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/codesample/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/colorpicker/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/contextmenu/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/directionality/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/emoticons/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/fullpage/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/fullscreen/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/help/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/hr/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/image/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/imagetools/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/imageupload/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/imageupload/jquery.iframe-post-form.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/imageupload/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/imageupload/uncompressed/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/imageupload/uncompressed/plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/importcss/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/insertdatetime/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/legacyoutput/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/link/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/lists/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/media/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/nonbreaking/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/noneditable/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/pagebreak/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/paste/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/preview/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/print/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/save/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/searchreplace/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/spellchecker/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/tabfocus/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/table/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/template/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/textcolor/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/textpattern/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/toc/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/visualblocks/css/visualblocks.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/visualblocks/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/visualchars/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/plugins/wordcount/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/skins/lightgray/content.inline.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/skins/lightgray/content.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/skins/lightgray/content.mobile.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/skins/lightgray/fonts/tinymce-small.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/skins/lightgray/fonts/tinymce.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/skins/lightgray/skin.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/skins/lightgray/skin.mobile.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/themes/inlite/theme.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/themes/mobile/theme.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/themes/modern/theme.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/static/news/tinymce/js/tinymce/tinymce.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/templates/news/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/1.py" afterPath="$PROJECT_DIR$/peizhi.py" />
+    <list default="true" id="2b806c3a-42d1-4be1-9a50-500380f9a849" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/disanfang/captcha/fonts/Arial.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/disanfang/captcha/fonts/Georgia.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/disanfang/captcha/fonts/actionj.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/disanfang/captcha/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/disanfang/captcha/captcha.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/disanfang/yuntongxun/CCPRestSDK.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/disanfang/yuntongxun/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/disanfang/yuntongxun/sms.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/disanfang/yuntongxun/xmltojson.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/modules/zhuce/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csh/modules/zhuce/views.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/xm1.iml" afterPath="$PROJECT_DIR$/.idea/xm1.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csh/__init__.py" afterPath="$PROJECT_DIR$/csh/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csh/modules/index/views.py" afterPath="$PROJECT_DIR$/csh/modules/index/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csh/static/news/css/main.css" afterPath="$PROJECT_DIR$/csh/static/news/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csh/static/news/js/main.js" afterPath="$PROJECT_DIR$/csh/static/news/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csh/templates/news/index.html" afterPath="$PROJECT_DIR$/csh/templates/news/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kaishi.py" afterPath="$PROJECT_DIR$/kaishi.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -167,7 +29,8 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/xm1$kaishi.coverage" NAME="kaishi Coverage Results" MODIFIED="1545124819027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/xm1$kaishi.coverage" NAME="kaishi Coverage Results" MODIFIED="1545224318741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/xm1$captcha.coverage" NAME="captcha Coverage Results" MODIFIED="1545136791088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/csh/disanfang/captcha" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -178,99 +41,61 @@
       <file leaf-file-name="kaishi.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/kaishi.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+            <state relative-caret-position="72">
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="connections.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.virtualenvs/flask_py3/lib/python3.5/site-packages/MySQLdb/connections.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="203" column="0" lean-forward="false" selection-start-line="203" selection-start-column="0" selection-end-line="203" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.virtualenvs/flask_py3/lib/python3.5/site-packages/MySQLdb/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="85" column="0" lean-forward="false" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="peizhi.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/peizhi.py">
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/csh/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="168">
-              <caret line="8" column="61" lean-forward="false" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="61" />
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="default.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.virtualenvs/flask_py3/lib/python3.5/site-packages/sqlalchemy/engine/default.py">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/csh/static/news/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="409" column="0" lean-forward="false" selection-start-line="409" selection-start-column="0" selection-end-line="409" selection-end-column="0" />
+            <state relative-caret-position="1584">
+              <caret line="183" column="12" lean-forward="false" selection-start-line="183" selection-start-column="12" selection-end-line="183" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="strategies.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.virtualenvs/flask_py3/lib/python3.5/site-packages/sqlalchemy/engine/strategies.py">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/csh/templates/news/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="105" column="0" lean-forward="false" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
+            <state relative-caret-position="214">
+              <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pool.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.virtualenvs/flask_py3/lib/python3.5/site-packages/sqlalchemy/pool.py">
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/csh/modules/zhuce/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="344" column="0" lean-forward="false" selection-start-line="344" selection-start-column="0" selection-end-line="344" selection-end-column="0" />
+            <state relative-caret-position="120">
+              <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="base.py" pinned="false" current-in-tab="true">
-        <entry file="file://$USER_HOME$/.virtualenvs/flask_py3/lib/python3.5/site-packages/sqlalchemy/engine/base.py">
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/csh/modules/index/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
-              <caret line="96" column="0" lean-forward="true" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="compat.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.virtualenvs/flask_py3/lib/python3.5/site-packages/sqlalchemy/util/compat.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="202" column="0" lean-forward="false" selection-start-line="202" selection-start-column="0" selection-end-line="202" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="env.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/migrations/env.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="288">
+              <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="15" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -295,6 +120,21 @@
       <find>192.168.47.128</find>
       <find>../</find>
       <find>constants</find>
+      <find>image_code_id</find>
+      <find>edis_code</find>
+      <find>get_pic_code</find>
+      <find>check_pa</find>
+      <find>smscode</find>
+      <find>注册</find>
+      <find>user_login fr</find>
+      <find>New</find>
+      <find>排行</find>
+      <find>WTF_CSRF_HEADERS</find>
+      <find>WTF_CSRF_CHECK_DEFAULT</find>
+      <find>CSRFProtect</find>
+      <find>csrf_protect</find>
+      <find>endpoint</find>
+      <find>WTF_CSRF_FIELD_NAME</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -306,13 +146,20 @@
         <option value="$PROJECT_DIR$/1.py" />
         <option value="$PROJECT_DIR$/csh/index/__init__.py" />
         <option value="$PROJECT_DIR$/csh/index/views.py" />
-        <option value="$PROJECT_DIR$/kaishi.py" />
         <option value="$PROJECT_DIR$/csh/modules/index/__init__.py" />
         <option value="$PROJECT_DIR$/csh/templates/news/html/index.html" />
-        <option value="$PROJECT_DIR$/csh/modules/index/views.py" />
         <option value="$PROJECT_DIR$/csh/models.py" />
-        <option value="$PROJECT_DIR$/csh/__init__.py" />
         <option value="$PROJECT_DIR$/peizhi.py" />
+        <option value="$PROJECT_DIR$/csh/modules/zhuce/__init__.py" />
+        <option value="$PROJECT_DIR$/csh/disanfang/yuntongxun/sms.py" />
+        <option value="$PROJECT_DIR$/kaishi.py" />
+        <option value="$PROJECT_DIR$/1111.py" />
+        <option value="$PROJECT_DIR$/csh/static/news/css/main.css" />
+        <option value="$PROJECT_DIR$/csh/modules/index/views.py" />
+        <option value="$PROJECT_DIR$/csh/templates/news/index.html" />
+        <option value="$PROJECT_DIR$/csh/__init__.py" />
+        <option value="$PROJECT_DIR$/csh/static/news/js/main.js" />
+        <option value="$PROJECT_DIR$/csh/modules/zhuce/views.py" />
       </list>
     </option>
   </component>
@@ -347,6 +194,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -355,8 +203,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="xm1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Python 3.5.2 virtualenv at ~/.virtualenvs/flask_py3 &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -366,28 +218,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="xm1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="migrations" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xm1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xm1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="migrations" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="versions" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -407,7 +237,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -423,11 +252,11 @@
       <recent name="$PROJECT_DIR$/csh/modules" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/csh/static/news/js" />
+      <recent name="$PROJECT_DIR$/csh/disanfang" />
       <recent name="$PROJECT_DIR$/csh" />
       <recent name="$PROJECT_DIR$/csh/templates" />
       <recent name="$PROJECT_DIR$/csh/modules/index/templates" />
-      <recent name="$PROJECT_DIR$/csh/modules/index/static/news" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunManager" selected="Python.kaishi">
@@ -446,6 +275,24 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kaishi.py" />
       <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="captcha" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/csh/disanfang/captcha" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="xm1" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/csh/disanfang/captcha/captcha.py" />
+      <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
@@ -663,12 +510,14 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="1">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Python.kaishi" />
+      <item index="1" class="java.lang.String" itemvalue="Python.captcha" />
     </list>
     <recent_temporary>
-      <list size="1">
+      <list size="2">
         <item index="0" class="java.lang.String" itemvalue="Python.kaishi" />
+        <item index="1" class="java.lang.String" itemvalue="Python.captcha" />
       </list>
     </recent_temporary>
   </component>
@@ -690,30 +539,37 @@
       <option name="project" value="LOCAL" />
       <updated>1544952535781</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="首页1.0 数据导入单数没有加载">
+      <created>1545125174935</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1545125174936</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16050744" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11141754" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32994923" sideWeight="0.50300944" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298647" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298647" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4568158" sideWeight="0.49699053" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34651405" sideWeight="0.49699053" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.64828306" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39021853" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298647" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -730,68 +586,41 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="11" />
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/.virtualenvs/flask_py3/lib/python3.5/site-packages/flask_wtf/csrf.py</url>
+          <line>195</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/csh/__init__.py</url>
+          <line>53</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="26" />
     </breakpoint-manager>
-    <watches-manager />
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="request.headers" language="Python" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/kaishi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kaishi_chushibanben.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="30" column="16" lean-forward="true" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/csh/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/peizhi.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="624">
           <caret line="27" column="17" lean-forward="false" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#14#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kaishi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/csh/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="32" column="12" lean-forward="false" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/peizhi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="27" column="17" lean-forward="false" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#14#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -799,7 +628,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="912">
           <caret line="38" column="39" lean-forward="false" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="39" />
-          <folding />
+          <folding>
+            <element signature="e#0#48#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -807,7 +638,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -815,9 +645,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#14#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -825,7 +652,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#0#48#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -833,16 +662,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#14#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/flask_py3/lib/python3.5/site-packages/flask_session/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="100" column="46" lean-forward="true" selection-start-line="100" selection-start-column="46" selection-end-line="100" selection-end-column="46" />
         </state>
       </provider>
     </entry>
@@ -860,15 +679,108 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/csh/modules/index/template/news/index.html" />
+    <entry file="file://$PROJECT_DIR$/csh/modules/index/templates/index.html" />
+    <entry file="file://$PROJECT_DIR$/csh/modules/index/templates/news/js/main.js" />
+    <entry file="file://$USER_HOME$/.virtualenvs/flask_py3/lib/python3.5/site-packages/sqlalchemy/engine/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="96" column="0" lean-forward="true" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/migrations/env.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/flask_py3/lib/python3.5/site-packages/sqlalchemy/util/compat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="202" column="0" lean-forward="false" selection-start-line="202" selection-start-column="0" selection-end-line="202" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/flask_py3/lib/python3.5/site-packages/sqlalchemy/pool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="344" column="0" lean-forward="false" selection-start-line="344" selection-start-column="0" selection-end-line="344" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/flask_py3/lib/python3.5/site-packages/sqlalchemy/engine/strategies.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="105" column="0" lean-forward="false" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/flask_py3/lib/python3.5/site-packages/sqlalchemy/engine/default.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="409" column="0" lean-forward="false" selection-start-line="409" selection-start-column="0" selection-end-line="409" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/flask_py3/lib/python3.5/site-packages/MySQLdb/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="85" column="0" lean-forward="false" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/flask_py3/lib/python3.5/site-packages/MySQLdb/connections.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="203" column="0" lean-forward="false" selection-start-line="203" selection-start-column="0" selection-end-line="203" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csh/constants.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csh/disanfang/yuntongxun/sms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="71" column="26" lean-forward="true" selection-start-line="71" selection-start-column="26" selection-end-line="71" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/flask_py3/lib/python3.5/site-packages/flask/blueprints.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-177">
+          <caret line="154" column="8" lean-forward="false" selection-start-line="154" selection-start-column="8" selection-end-line="154" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csh/response_code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-384">
+          <caret line="2" column="9" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csh/disanfang/captcha/captcha.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2468">
+          <caret line="222" column="33" lean-forward="false" selection-start-line="222" selection-start-column="10" selection-end-line="222" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/kaishi_chushibanben.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
           <caret line="30" column="16" lean-forward="false" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/csh/modules/index/template/news/index.html">
+    <entry file="file://$PROJECT_DIR$/1111.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -876,15 +788,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/csh/modules/index/templates/index.html">
+    <entry file="file://$USER_HOME$/.virtualenvs/flask_py3/lib/python3.5/site-packages/werkzeug/security.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-72">
+        <state relative-caret-position="144">
+          <caret line="233" column="4" lean-forward="false" selection-start-line="233" selection-start-column="4" selection-end-line="233" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csh/modules/zhuce/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="44" lean-forward="false" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/peizhi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-168">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/csh/modules/index/templates/news/js/main.js">
+    <entry file="file://$USER_HOME$/.virtualenvs/flask_py3/lib/python3.5/site-packages/flask_session/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="50" column="8" lean-forward="false" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csh/static/news/css/reset.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -892,18 +828,82 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/csh/static/news/js/main.js">
+    <entry file="file://$PROJECT_DIR$/csh/static/news/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="70" column="18" lean-forward="false" selection-start-line="70" selection-start-column="18" selection-end-line="70" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csh/modules/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csh/modules/index/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csh/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="176" column="0" lean-forward="true" selection-start-line="176" selection-start-column="0" selection-end-line="176" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/flask_py3/lib/python3.5/site-packages/alembic/runtime/environment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="92" column="13" lean-forward="false" selection-start-line="92" selection-start-column="13" selection-end-line="92" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kaishi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.5/http/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="422" column="0" lean-forward="false" selection-start-line="422" selection-start-column="0" selection-end-line="422" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.5/socketserver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="232" column="0" lean-forward="false" selection-start-line="232" selection-start-column="0" selection-end-line="232" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/flask_py3/lib/python3.5/site-packages/werkzeug/serving.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="300" column="0" lean-forward="false" selection-start-line="300" selection-start-column="0" selection-end-line="300" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/csh/modules/index/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" column="20" lean-forward="false" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+        <state relative-caret-position="288">
+          <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="15" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
@@ -912,124 +912,80 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/csh/templates/news/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1536">
-          <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        <state relative-caret-position="214">
+          <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/csh/modules/index/__init__.py">
+    <entry file="file://$USER_HOME$/.virtualenvs/flask_py3/lib/python3.5/site-packages/werkzeug/debug/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="63" lean-forward="false" selection-start-line="3" selection-start-column="63" selection-end-line="3" selection-end-column="63" />
+        <state relative-caret-position="181">
+          <caret line="288" column="0" lean-forward="false" selection-start-line="288" selection-start-column="0" selection-end-line="288" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csh/static/news/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1584">
+          <caret line="183" column="12" lean-forward="false" selection-start-line="183" selection-start-column="12" selection-end-line="183" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2016.3/system/python_stubs/-241003441/itertools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="100" column="8" lean-forward="false" selection-start-line="100" selection-start-column="8" selection-end-line="100" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/flask_py3/lib/python3.5/site-packages/flask/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="1663" column="23" lean-forward="true" selection-start-line="1663" selection-start-column="23" selection-end-line="1663" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csh/modules/zhuce/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/flask_py3/lib/python3.5/site-packages/werkzeug/local.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="291" column="8" lean-forward="false" selection-start-line="291" selection-start-column="8" selection-end-line="291" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/flask_py3/lib/python3.5/site-packages/flask/globals.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="41" column="17" lean-forward="true" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/flask_py3/lib/python3.5/site-packages/flask_wtf/csrf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="679">
+          <caret line="226" column="60" lean-forward="false" selection-start-line="226" selection-start-column="41" selection-end-line="226" selection-end-column="60" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/csh/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="35" column="13" lean-forward="false" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#48#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/csh/constants.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-579">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/csh/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3844">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kaishi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/migrations/env.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/peizhi.py">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
-          <caret line="8" column="61" lean-forward="false" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/flask_py3/lib/python3.5/site-packages/MySQLdb/connections.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="203" column="0" lean-forward="false" selection-start-line="203" selection-start-column="0" selection-end-line="203" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/flask_py3/lib/python3.5/site-packages/MySQLdb/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="85" column="0" lean-forward="false" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/flask_py3/lib/python3.5/site-packages/sqlalchemy/engine/default.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="409" column="0" lean-forward="false" selection-start-line="409" selection-start-column="0" selection-end-line="409" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/flask_py3/lib/python3.5/site-packages/sqlalchemy/engine/strategies.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="105" column="0" lean-forward="false" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/flask_py3/lib/python3.5/site-packages/sqlalchemy/pool.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="344" column="0" lean-forward="false" selection-start-line="344" selection-start-column="0" selection-end-line="344" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/flask_py3/lib/python3.5/site-packages/sqlalchemy/util/compat.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="202" column="0" lean-forward="false" selection-start-line="202" selection-start-column="0" selection-end-line="202" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/flask_py3/lib/python3.5/site-packages/sqlalchemy/engine/base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="96" column="0" lean-forward="true" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
