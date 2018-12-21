@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b806c3a-42d1-4be1-9a50-500380f9a849" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/csh/static/news/html/404.html" afterPath="$PROJECT_DIR$/csh/templates/news/404.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csh/__init__.py" afterPath="$PROJECT_DIR$/csh/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csh/disanfang/gongyong.py" afterPath="$PROJECT_DIR$/csh/disanfang/gongyong.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csh/disanfang/yuntongxun/CCPRestSDK.py" afterPath="$PROJECT_DIR$/csh/disanfang/yuntongxun/CCPRestSDK.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csh/disanfang/yuntongxun/xmltojson.py" afterPath="$PROJECT_DIR$/csh/disanfang/yuntongxun/xmltojson.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csh/modules/news/views.py" afterPath="$PROJECT_DIR$/csh/modules/news/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csh/static/news/js/index.js" afterPath="$PROJECT_DIR$/csh/static/news/js/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csh/templates/news/base.html" afterPath="$PROJECT_DIR$/csh/templates/news/base.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csh/templates/news/detail.html" afterPath="$PROJECT_DIR$/csh/templates/news/detail.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csh/templates/news/index.html" afterPath="$PROJECT_DIR$/csh/templates/news/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -721,7 +713,14 @@
       <option name="project" value="LOCAL" />
       <updated>1545400095547</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="首页 分类 新闻滚动 抽取详情页面 装饰器  网页链接完善">
+      <created>1545403388234</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1545403388234</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -759,7 +758,8 @@
     <MESSAGE value="首页1.0 数据导入单数没有加载" />
     <MESSAGE value="登陆 登出 点击排行" />
     <MESSAGE value="首页 分类 新闻滚动 抽取详情页面 装饰器" />
-    <option name="LAST_COMMIT_MESSAGE" value="首页 分类 新闻滚动 抽取详情页面 装饰器" />
+    <MESSAGE value="首页 分类 新闻滚动 抽取详情页面 装饰器  网页链接完善" />
+    <option name="LAST_COMMIT_MESSAGE" value="首页 分类 新闻滚动 抽取详情页面 装饰器  网页链接完善" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
