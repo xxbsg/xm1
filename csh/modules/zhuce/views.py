@@ -100,6 +100,8 @@ def login():
     return jsonify(errno=RET.OK,errmsg='ok')
 @zc.route('/signin',methods=["POST"])
 def signin():
+    print("这是form",request.form)
+    print("这是json",request.json)
     # 接受返回的json信息 手机号 密码
     data=request.json
     mobile=data.get('mobile')

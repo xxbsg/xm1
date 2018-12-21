@@ -13,6 +13,8 @@ from csh.modules.index import index_blu
 app.register_blueprint(index_blu)
 from csh.modules.zhuce import zc
 app.register_blueprint(zc)
+from csh.modules.news import news
+app.register_blueprint(news)
 print(app.url_map)
 if __name__ == '__main__':
     # db.create_all()

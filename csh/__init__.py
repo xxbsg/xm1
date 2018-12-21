@@ -1,10 +1,13 @@
 from logging.handlers import RotatingFileHandler
 
 from flask import Flask
+from flask import g
+from flask import session
 from flask.ext.session import Session
 from flask.ext.sqlalchemy import SQLAlchemy
 from flask.ext.wtf import CSRFProtect
 from flask.ext.wtf.csrf import generate_csrf
+
 
 from peizhi import *
 db=None
@@ -49,10 +52,10 @@ def creat_app(ms="ts"):
     from csh import models
     #开启日志
     # setup_log()
+
     @app.after_request
     def szscrf(resp):
         token = generate_csrf()
-        print("令牌是",token)
         # session['field_name']=token
         # resp.headers['X-CSRFToken'] = token
         resp.set_cookie('X-CSRFToken',token)
