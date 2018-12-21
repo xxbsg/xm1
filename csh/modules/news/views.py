@@ -1,3 +1,4 @@
+from flask import abort
 from flask import g
 from flask import render_template
 
@@ -20,5 +21,7 @@ def new(xw_id):
         new=News.query.filter(News.id==xw_id).first()
     except Exception as e:
         return "cuo wu"
+    if not new:
+        abort(404)
     data['new']=new.to_dict()
     return render_template('news/detail.html',data=data)

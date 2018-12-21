@@ -12,7 +12,7 @@ def user_pd(f):
 
         user_id = session.get('user_id')
         if not user_id:
-            data = {'info': None}
+            info=None
         else:
             from csh.models import User
             user = User.query.get(user_id)
