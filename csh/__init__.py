@@ -52,10 +52,10 @@ def creat_app(ms="ts"):
     CSRFProtect(app)
     from csh import models
     #开启日志
-    # setup_log()
-    @app.errorhandler(404)
-    def cwxd(e):
-        return render_template('news/404.html')
+    setup_log()
+    # @app.errorhandler(404)
+    # def cwxd(e):
+    #     return render_template('news/404.html')
     @app.after_request
     def szscrf(resp):
         token = generate_csrf()

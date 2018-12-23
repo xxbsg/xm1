@@ -15,6 +15,8 @@ from csh.modules.zhuce import zc
 app.register_blueprint(zc)
 from csh.modules.news import news
 app.register_blueprint(news)
+from csh.modules.user import user
+app.register_blueprint(user)
 print(app.url_map)
 if __name__ == '__main__':
     # db.create_all()
