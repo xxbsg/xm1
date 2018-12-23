@@ -13,11 +13,13 @@ def user_pd(f):
         user_id = session.get('user_id')
         if not user_id:
             info=None
+            user=None
         else:
             from csh.models import User
             user = User.query.get(user_id)
             info = user.to_dict()
         g.info = info
+        g.user=user
         return f(*args,**kwargs)
     return wapper
 

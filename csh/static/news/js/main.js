@@ -1,5 +1,10 @@
 $(function(){
 
+    //退出
+    $('.logout_btn').click(function(){
+        alert('hhhh')
+        logout()
+	                            })
 	// 打开登录框
 	$('.login_btn').click(function(){
         $('.login_form_con').show();
@@ -53,7 +58,6 @@ $(function(){
 		$('.register_form_con').show();
 		generateImageCode()
 	})
-
 
 	// 登录框和注册框切换
 	$('.to_register').click(function(){
@@ -318,3 +322,18 @@ function generateUUID() {
     });
     return uuid;
 }
+
+function logout() {
+$.ajax({
+    url: "/zhuce/logout",
+    type: "post",
+    contentType: "application/json",
+    headers: {
+        "X-CSRFToken": getCookie("X-CSRFToken")
+    },
+    success: function (resp) {
+        // 刷新当前界面
+        location.reload()
+    }
+    })
+                 }

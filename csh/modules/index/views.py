@@ -37,8 +37,8 @@ def hello_world():
     for i in cary:
         cary_l.append(i.to_dict())
     data['carys'] = cary_l
-    for i in data['carys']:
-        print(i['name'])
+    # for i in data['carys']:
+    #     print(i['name'])
     return render_template('news/index.html',data=data)
 @index_blu.route('/favicon.ico')
 def tubiao():
