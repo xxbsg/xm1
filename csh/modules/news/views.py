@@ -6,7 +6,7 @@ from flask import session
 
 from csh import db
 from csh.disanfang.gongyong import user_pd,news_phb
-from csh.models import News, Comment, CommentLike
+from csh.models import News, Comment, CommentLike, User
 from csh.modules.news import news
 from csh.response_code import RET
 
@@ -32,8 +32,14 @@ def new(xw_id):
     data['new']=new.to_dict()
     # 显示收藏状态
     data['sc_zt']=False
+    data['is_followed']=False#关注状态
+
     user_dzidl = []
     if user is not None:
+        zz=User.query.filter(User.id==new.user_id).first()
+        data['zz']=zz
+        if zz in user.followers:
+            data['is_followed']=True
         if new in user.collection_news:
 
             data['sc_zt']=True
@@ -64,7 +70,11 @@ def shoucang():
     data=request.json
     xingwei=data.get('xingwei')
     new_id=data.get('new_id')
-    if xingwei not in ["shoucang","quxiao_sc"]:
+
+    new = News.query.filter(News.id == new_id).first()
+    zz = User.query.filter(User.id == new.user_id).first()
+
+    if xingwei not in ["shoucang","quxiao_sc","guanzhu","quxiao_gz"]:
         return jsonify(errno=RET.PARAMERR,errmsg="参数错误")
     if new_id is None:
         return jsonify(errno=RET.PARAMERR, errmsg="参数错误")
@@ -73,9 +83,17 @@ def shoucang():
     if xingwei =='shoucang':
         if News.query.get(new_id) not in user.collection_news:
             user.collection_news.append(News.query.get(new_id))
-    else:
+    elif xingwei=='quxiao_sc':
         if News.query.get(new_id) in user.collection_news:
             user.collection_news.remove(News.query.get(new_id))
+    elif xingwei=='guanzhu':
+
+        if zz not in user.followers:
+            user.followers.append(zz)
+    elif xingwei =='quxiao_gz':
+        if zz in user.followers:
+            user.followers.remove(zz)
+
     db.session.commit()
     return jsonify(errno=RET.OK, errmsg="ok")
 @news.route('/pinglun',methods=['POST'])

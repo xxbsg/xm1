@@ -36,8 +36,8 @@
             {% if data.info %}
                 <!-- 用户登录后显示下面，隐藏上面 -->
                 <div class="user_login fr">
-                    <img src="../../static/news/images/person01.png" class="lgin_pic">
-                    <a href="/user">{{ data.info.nick_name }}</a>
+                    <img src="{% if data.info.avatar_url %}{{ data.info.avatar_url }}{% else %}../../static/news/images/user_pic.png{% endif %}" class="lgin_pic">
+                    <a id="nick_name" href="/user">{{ data.info.nick_name }}</a>
                     <a href="/zhuce/logout" class="logout" >退出</a>
                 </div>
             {% else %}
