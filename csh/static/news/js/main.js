@@ -1,7 +1,7 @@
 $(function(){
 
     //退出
-    $('.logout_btn').click(function(){
+    $('.logoutb').click(function(){
         alert('hhhh')
         logout()
 	                            })
@@ -326,7 +326,7 @@ function generateUUID() {
 function logout() {
 $.ajax({
     url: "/zhuce/logout",
-    type: "post",
+    type: "get",
     contentType: "application/json",
     headers: {
         "X-CSRFToken": getCookie("X-CSRFToken")

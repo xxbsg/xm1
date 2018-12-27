@@ -13,7 +13,7 @@
     <div class="news_list">
     <h3>新闻列表</h3>
     <ul class="article_list">
-        {% for news in data.user.news_list %}
+        {% for news in data.gz %}
             <li>
             {% if news.status == 0 %}
                 {# 审核通过 #}

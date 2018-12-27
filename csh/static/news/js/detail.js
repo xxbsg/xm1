@@ -235,16 +235,16 @@ $(function(){
                 "parent_id": parent_id
             }
             $.ajax({
-                url: "/news/news_comment",
+                url: "/news/pinglun",
                 type: "post",
                 contentType: "application/json",
                 headers: {
-                    "X-CSRFToken": getCookie("csrf_token")
+                    "X-CSRFToken": getCookie("X-CSRFToken")
                 },
                 data: JSON.stringify(params),
                 success: function (resp) {
                     if (resp.errno == "0") {
-                        var comment = resp.data.comment
+                        var comment = resp.dat.comment
                         // 拼接内容
                         var comment_html = ""
                         comment_html += '<div class="comment_list">'

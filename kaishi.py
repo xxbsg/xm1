@@ -17,6 +17,8 @@ from csh.modules.news import news
 app.register_blueprint(news)
 from csh.modules.user import user
 app.register_blueprint(user)
+from csh.modules.gly import gly
+app.register_blueprint(gly)
 print(app.url_map)
 if __name__ == '__main__':
     # db.create_all()

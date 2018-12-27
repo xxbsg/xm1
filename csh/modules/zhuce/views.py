@@ -86,6 +86,7 @@ def login():
     user=User()
     user.mobile=mobile
     user.password=password
+    # user.is_admin=1 管理员
     user.nick_name='用户'+mobile
     try:
         db.session.add(user)
@@ -100,8 +101,8 @@ def login():
     return jsonify(errno=RET.OK,errmsg='ok')
 @zc.route('/signin',methods=["POST"])
 def signin():
-    print("这是form",request.form)
-    print("这是json",request.json)
+    # print("这是form",request.form)
+    # print("这是json",request.json)
     # 接受返回的json信息 手机号 密码
     data=request.json
     mobile=data.get('mobile')
@@ -125,4 +126,4 @@ def logout():
     session.pop('user_mobile',None)
     session.pop('user_nc',None)
     print(session.get('user_id'),session.get('user_mobile'),session.get('user_id'))
-    return redirect('/')
+    return jsonify(errno=0,errmsg='ok')

@@ -3,7 +3,7 @@ from flask import session
 
 import functools
 
-
+from csh.models import User
 
 
 def user_pd(f):
@@ -38,6 +38,7 @@ def user_pd(f):
 #         return f(*args,**kwargs)
 #     return wrapper
 #
+# 新闻排行棒
 def news_phb(f):
     @functools.wraps(f)
     def wapper(*args,**kwargs):
@@ -49,3 +50,4 @@ def news_phb(f):
         g.news_l= news_l
         return f(*args,**kwargs)
     return wapper
+

@@ -167,6 +167,7 @@ def fbxw():
         new.digest=zhaiyao
         new.source = '个人'
         new.content=neirong
+        new.status=1
         new.category_id = fenlei
         new.user_id = user.id
         try:
@@ -242,7 +243,7 @@ def xwlb():
         # new_id = []
         # for i in gz:
         #     new_id.append(i.id)
-        page = request.args.get('page', 1)
+        page = request.args.get('p', 1)
         try:
             page = int(page)
         except Exception as e:
@@ -254,5 +255,6 @@ def xwlb():
         data['gz'] = items
         data['dqy'] = dqy
         data['zys'] = zys
+
 
         return render_template('news/user_news_list.html',data=data)

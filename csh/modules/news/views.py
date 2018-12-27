@@ -4,6 +4,7 @@ from flask import render_template
 from flask import request
 from flask import session
 
+from csh import constants
 from csh import db
 from csh.disanfang.gongyong import user_pd,news_phb
 from csh.models import News, Comment, CommentLike, User
@@ -33,13 +34,17 @@ def new(xw_id):
     # 显示收藏状态
     data['sc_zt']=False
     data['is_followed']=False#关注状态
+    zz = User.query.filter(User.id == new.user_id).first()
+    if zz is not None:
+        data['zz'] = zz.to_dict()
+    else:
+        data['zz'] = None
 
     user_dzidl = []
     if user is not None:
-        zz=User.query.filter(User.id==new.user_id).first()
-        data['zz']=zz
-        if zz in user.followers:
-            data['is_followed']=True
+
+        if zz in user.followed:
+            data['is_followed'] = True
         if new in user.collection_news:
 
             data['sc_zt']=True
@@ -58,6 +63,7 @@ def new(xw_id):
             p_dic['dz_zt']=True
         pinglun_l.append(p_dic)
     data['pingluns']=pinglun_l
+    data['img_qz']=constants.QINIU_DOMIN_PREFIX
     return render_template('news/detail.html',data=data)
 @news.route('/shoucang',methods=["POST"])
 @user_pd
@@ -87,12 +93,18 @@ def shoucang():
         if News.query.get(new_id) in user.collection_news:
             user.collection_news.remove(News.query.get(new_id))
     elif xingwei=='guanzhu':
+        if zz is None:
+            return jsonify(errno='404',errmsg='关注用户不存在')
+        if user not in zz.followers:
+            zz.followers.append(user)
+            # user.followers.append(zz)
 
-        if zz not in user.followers:
-            user.followers.append(zz)
     elif xingwei =='quxiao_gz':
-        if zz in user.followers:
-            user.followers.remove(zz)
+        if zz is None:
+            return jsonify(errno='404', errmsg='关注用户不存在')
+        if user in zz.followers:
+            zz.followers.remove(user)
+            # user.followers.remove(zz)
 
     db.session.commit()
     return jsonify(errno=RET.OK, errmsg="ok")
@@ -104,8 +116,8 @@ def pinglun():
     if user is None:
         return jsonify(errno=RET.SESSIONERR,errmsg="用户未登录")
     data=request.json
-    pinglun_nr=data.get('pinglun_nr')
-    new_id=data.get('new_id')
+    pinglun_nr=data.get('comment')
+    new_id=data.get('news_id')
     if not all([pinglun_nr,new_id]):
         return jsonify(errno=RET.PARAMERR, errmsg="参数错误")
     if News.query.filter(News.id == new_id).first() is None:
@@ -114,7 +126,7 @@ def pinglun():
     comment.content=pinglun_nr
     comment.user_id=user.id
     comment.news_id=new_id
-    fu_id=data.get('fu_id')
+    fu_id=data.get('parent_id')
     # 回复需要有父id
     if fu_id is not None:
         comment.parent_id=fu_id

@@ -177,11 +177,11 @@
 
         {% block user_jianjie %}
             <div class="author_card">
-                <a href="#" class="author_pic"><img src="{% if data.zz.avatar_url %}{{ data.info.avatar_url }}{% else %}../../static/news/images/user_pic.png{% endif %}" alt="author_pic"></a>
+                <a href="#" class="author_pic"><img src="{% if data.zz.avatar_url %}{{ data.zz.avatar_url }}{% else %}../../static/news/images/user_pic.png{% endif %}" alt="author_pic"></a>
                 <a href="#" class="author_name">{{ data.zz.nick_name }}</a>
                 <div class="author_resume">{{ data.zz.signature}}</div>
                 <div class="writings"><span>总篇数</span><b>{{ data.zz.news_count }}</b></div>
-                <div class="follows"><span>粉丝</span><b>{{ data.zz.followers_count }}</b></div>
+                <div class="follows"><span>粉丝</span><b>{{ data.zz.followers_count}}</b></div>
 {#                <a href="javascript:;" class="focus fr">关注</a>#}
 {#                <a href="javascript:;" class="focused fr"><span class="out">已关注</span><span class="over">取消关注</span></a>#}
                 <a href="javascript:;" id="focused" class="focus fr" data-newid="{{ data.new.id }}" style="display: {% if data.is_followed %}none{% else %}block{% endif %}">关注</a>

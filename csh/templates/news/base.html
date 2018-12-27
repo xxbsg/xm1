@@ -38,7 +38,8 @@
                 <div class="user_login fr">
                     <img src="{% if data.info.avatar_url %}{{ data.info.avatar_url }}{% else %}../../static/news/images/user_pic.png{% endif %}" class="lgin_pic">
                     <a id="nick_name" href="/user">{{ data.info.nick_name }}</a>
-                    <a href="/zhuce/logout" class="logout" >退出</a>
+{#                    <a href="/zhuce/logout" class="logout" >退出</a>#}
+                    <a href="javascript:;" class="logoutb" >退出</a>
                 </div>
             {% else %}
                  <div class="user_btns fr">
